@@ -4,8 +4,7 @@
    min-height: 847px;
    background-size: cover;
    background-position: center;
-}
-
+  }
 .main__logo {
    background-size: contain;
    background-repeat: no-repeat;
@@ -16,25 +15,21 @@
    margin-right: 206px;
    margin-bottom: 309px;
    margin-left: 25px;
-}
-  
-   
-
-.main__title {
-      color: white  ;
-      font-size: 48px;
-      font-style: normal;
-      font-weight: normal;
-      padding-top: 195px ;
-      padding-right: 42.5px;
-      padding-bottom: 27px;
-      padding-left: 41.5px;
-      line-height: 55px;
-      text-align: center;
-      letter-spacing: 0.2px; 
   }
-  
-  .main__text {
+.main__title {
+   color: white  ;
+   font-size: 48px;
+   font-style: normal;
+   font-weight: normal;
+   padding-top: 195px ;
+   padding-right: 42.5px;
+   padding-bottom: 27px;
+   padding-left: 41.5px;
+   line-height: 55px;
+   text-align: center;
+   letter-spacing: 0.2px; 
+  }
+.main__text {
    color: white;
    text-align: center;
    font-weight: 400;
@@ -45,8 +40,7 @@
    padding-bottom: 69px;
    padding-left: 55.5px;
    letter-spacing: 0.2px;
-}
-
+  }
 .main__botton {
    background-color: #2091F9;
    width: 236px;
@@ -61,8 +55,4 @@
    background-size: cover;
    display: block;
    margin: 69px 91px 298px 90px;
-   
-
-}
-
-
+  }
