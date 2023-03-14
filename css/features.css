@@ -2,9 +2,7 @@
     width: 418px;
     height: 1600px;
 }
-
 .features__title {
-    width: 418px;
     font-style: normal;
     font-weight: 400;
     font-size: 48px;
@@ -15,8 +13,6 @@
     margin: 91px 112px 0px 112px;
     padding-bottom: 27px;
 }
-
-
 .features__text {
    color: #374754;
    text-align: center;
@@ -24,30 +20,26 @@
    height: 80px;
    font-size: 28px;
    line-height: 40px;
-   padding-top: 27px;
+   padding-top: 22px;
    padding-right: 76.5px;
    padding-bottom: 67px;
    padding-left: 76.5px;
    letter-spacing: 0.2px;
 }
-
 .features__image {
-    position: absolute;
     width: 386px;
     height: 216px;
     border-radius: 15px;
-    margin: 67px 16px 82px 16px;
+    margin: 30px 16px 50px 16px;
     display: block;
     background-size: cover;
 }
-
 .icons-card__icons {
-    margin: 82px 186px 28px 186px;
+    margin: 50px 186px 28px 186px;
     background: #2091F9;
     width: 46px;
     height: 46px;
 }
-
 .icons-card__title {
     margin: 27px 112px 20px 112px;
     font-style: normal;
@@ -57,9 +49,7 @@
     color: #252B42;
     text-align: center;
     letter-spacing: 0.1px;
-
 }
-
 .icons-card__text {
     font-style: normal;
     font-weight: 400;
@@ -68,6 +58,5 @@
     text-align: center;
     letter-spacing: 0.2px;
     color: #374754;
-    margin: 20px 94px 82px 94px;
-
+    margin: 20px 94px 5px 94px;
 }
