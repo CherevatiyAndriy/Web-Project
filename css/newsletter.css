@@ -70,7 +70,7 @@
     box-sizing: border-box;
     justify-content: center;
     display: flex;
-    align-items: central;
+    align-items: flex-start;
     padding: 19px 35px;
     width: 353px;
     height: 54px;
