@@ -3,12 +3,10 @@
     height: 1400px;
 }
 .features__title {
-    font-style: normal;
     font-weight: 400;
     font-size: 48px;
     line-height: 55px;
     text-align: center;
-    letter-spacing: 0.2px;
     color: #252B42;
     margin: 91px 112px 0px 112px;
     padding-bottom: 27px;
@@ -24,7 +22,6 @@
    padding-right: 76.5px;
    padding-bottom: 67px;
    padding-left: 76.5px;
-   letter-spacing: 0.2px;
 }
 .features__image {
     width: 386px;
@@ -42,21 +39,17 @@
 }
 .icons-card__title {
     margin: 27px 112px 20px 112px;
-    font-style: normal;
     font-weight: 700;
     font-size: 20px;
     line-height: 28px;
     color: #252B42;
     text-align: center;
-    letter-spacing: 0.1px;
 }
 .icons-card__text {
-    font-style: normal;
     font-weight: 400;
     font-size: 18px;
     line-height: 25px;
     text-align: center;
-    letter-spacing: 0.2px;
     color: #374754;
     margin: 20px 94px 5px 94px;
 }

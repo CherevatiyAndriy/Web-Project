@@ -1,36 +1,30 @@
 .newsletter__entry {
     width: 173px;
     height: 28px;
-    font-style: normal;
     font-weight: 700;
     font-size: 20px;
     line-height: 28px;
     text-align: center;
-    letter-spacing: 0.1px;
     color: #252B42;
     margin: 50px 122px 17px 122px;
 }
 .newsletter__title {
     width: 244px;
     height: 55px;
-    font-style: normal;
     font-weight: 400;
     font-size: 48px;
     line-height: 55px;
     text-align: center;
-    letter-spacing: 0.2px;
     color: #252B42;
     margin: 17px 87px 21px 87px;
 }
 .newsletter__text {
     width: 370px;
     height: 80px;
-    font-style: normal;
     font-weight: 400;
     font-size: 28px;
     line-height: 40px;
     text-align: center;
-    letter-spacing: 0.2px;
     color: #374754;
     margin: 27px 25px 90px 25px;
 }
@@ -46,23 +40,19 @@
 .newsletter__subscribe {
     width: 276px;
     height: 28px;
-    font-style: normal;
     font-weight: 700;
     font-size: 20px;
     line-height: 28px;
     text-align: center;
-    letter-spacing: 0.1px;
     color: #252B42;
     margin: 30px 71px 10px 71px;
 }
 .newsletter__text2 {
     width: 300px;
     height: 25px;
-    font-style: normal;
     font-weight: 400;
     font-size: 18px;
     line-height: 25px;
-    letter-spacing: 0.2px;
     color: #374754;
     margin: 10px 58px 34px 58px;
 }

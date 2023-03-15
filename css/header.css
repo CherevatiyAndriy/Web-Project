@@ -19,7 +19,6 @@
 .main__title {
    color: white  ;
    font-size: 48px;
-   font-style: normal;
    font-weight: normal;
    padding-top: 195px ;
    padding-right: 42.5px;
@@ -27,7 +26,6 @@
    padding-left: 41.5px;
    line-height: 55px;
    text-align: center;
-   letter-spacing: 0.2px; 
   }
 .main__text {
    color: white;
@@ -39,7 +37,6 @@
    padding-right: 56.5px;
    padding-bottom: 69px;
    padding-left: 55.5px;
-   letter-spacing: 0.2px;
   }
 .main__botton {
    background-color: #2091F9;

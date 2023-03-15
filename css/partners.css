@@ -1,0 +1,59 @@
+.partners__title {
+    width: 188px;
+    height: 55px;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 55px;
+    text-align: center;
+    color: #374754;
+    margin: 60px 115px 27px 115px;
+}
+.partners__text {
+    width: 350px;
+    height: 80px;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 40px;
+    text-align: center;
+    color: #374754;
+    margin: 27px 27px 108px 27px;
+}
+.client__name {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 23px;
+    color: #374754;
+    width: 94px;
+    height: 23px;
+    margin: 90px 150px 15px 170px;
+}
+.client__google {
+    width: 193px;
+    height: 63px;
+    margin: 15px 90px 80px 120px;
+}
+.client__amazon {
+    width: 193px;
+    height: 63px;
+    margin: 15px 90px 80px 120px;
+}
+.client__microsoft {
+    width: 221px;
+    height: 77px;
+    margin: 15px 90px 80px 100px;
+}
+.partners__button {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 16px 0px;
+    width: 236px;
+    height: 60px;
+    background: #2091F9;
+    border-radius: 35px;
+    font-size: 20px;
+    color: white;
+    margin: 69px 91px 65px 91px;
+}
